@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>images/020-download.png</file>
+        <file>images/022-upload.png</file>
+        <file>images/023-refresh.png</file>
+        <file>images/027-play button.png</file>
+        <file>images/029-pause.png</file>
+        <file>images/034-error.png</file>
+        <file>images/snake.png</file>
+    </qresource>
+    <qresource prefix="/helptxt">
+        <file>help/ReadMe.txt</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>music/summer.mp3</file>
+    </qresource>
+</RCC>
