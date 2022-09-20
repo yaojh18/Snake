@@ -1,9 +1,12 @@
-1.doc文件夹中包含本次作业的设计报告；
-2.help是程序运行中帮助文档的内容；
-3.images为程序运行所需要的icon文件；
-4.music为程序的背景音乐；
-5.release中为程序的发布版本；
-6.script中为程序运行时保存的游戏状态文件，可将游戏保存至此文件夹中；
-7.其余文件为程序的源代码。
++ This is a very classic game Snake. 
++ To start the game, run ```.\release\Snake.exe```.
+
+1. The doc folder contains the design report of this assignment;
+2. help is the content of the help document in the running of the program;
+3.images is the icon file required for the program to run;
+4.music is the background music of the program;
+5. Release is the release version of the program;
+6. The game state file saved when the program is running in the script, the game can be saved to this folder;
+7. The rest of the files are the source code of the program.
 
 
